@@ -1,0 +1,11 @@
+this is my python code
+
+#python program to find the area of a circle
+
+def findArea(r):
+	PI = 3.142
+	return PI * (r*r);
+
+print("The area is %.6f" % findArea(5));
+
+
