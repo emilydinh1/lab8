@@ -1,0 +1,10 @@
+this is my perl code
+
+#Various operations on scalar (string) variables.
+$emily = "Emily here";
+$age = 22;
+$sum = 10 + $age;
+print 'The variable $emily' . " contains $emily.\n";
+print "The sum is $sum.\n";
+
+
