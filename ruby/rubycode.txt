@@ -1,0 +1,13 @@
+this is my ruby code
+
+#Variables and expressions
+
+x = 100
+y = 3 * x + 2
+printf("%d %d\n", x, y);
+
+#Type is dynamic.
+
+t = "A string"
+r = 'Another string'
+print t + ' + r + "\n"
